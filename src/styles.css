@@ -1,0 +1,18 @@
+/* styles.css */
+button {
+    margin: 5px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  .bg{
+    width: 100%;
+    padding: 50px 250px;
+  }
+  
